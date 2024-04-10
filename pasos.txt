@@ -1,0 +1,13 @@
+1.- npm i webpack webpack-cli
+2.- npm install @babel/core @babel/cli @babel/preset-env babel-loader html-webpack-plugin webpack-dev-server @babel/polyfill
+3.- npm install css-loader style-loader
+npm i mini-css-extract-plugin
+
+
+
+//ejecutar npm install
+comandos:
+npx webpack --mode production
+npx webpack --mode development
+npx webpack-dev-server
+
